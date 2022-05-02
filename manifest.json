@@ -1,18 +1,8 @@
 {
-	"files": {
-		"README.md": "053c1efc4b467007f25cc3adccf34a73874dcd0a7d7ef24772a647a2ea63b208",
-		"index.js": "3e124f653d4e9448b835ffb3e9907ed4a6fabd756cbb098aa9633872c1b1d2eb",
-		"module.json": "ed003376acf3807b44a08b852397cc948e65574aaec9f9b891c2585fd35edc97",
-		"settings_migrator.js": "f97c5a0de378cdb754a0eede1ad14176d6cd6fc28013b6bc48063a6a80e48ec1"
-	},
-	"defs": {
-		"S_ABNORMALITY_END": 1,
-		"S_ACTION_END": 5,
-		"S_ACTION_STAGE": 9,
-		"S_CREATURE_LIFE": 3,
-		"S_INSTANT_MOVE": 3,
-		"S_LEAVE_PARTY": "raw",
-		"S_LEAVE_PARTY_MEMBER": 2,
-		"S_PARTY_MEMBER_LIST": 9
-	}
+    "files": {
+        "README.md": "053c1efc4b467007f25cc3adccf34a73874dcd0a7d7ef24772a647a2ea63b208",
+        "index.js": "21de7425d038530d0c2d900c3e8258ca0c3bf6b2fb3297fb22acb741fe145930",
+        "module.json": "7bb636908c951c6132ce453d34981813ec1fde8842e02108d57838d19e4b88cc",
+        "settings_migrator.js": "f97c5a0de378cdb754a0eede1ad14176d6cd6fc28013b6bc48063a6a80e48ec1"
+    }
 }
