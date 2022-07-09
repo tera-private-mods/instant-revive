@@ -52,7 +52,7 @@ module.exports = function Instant_revive(mod) {
 		}
 	});
 	
-	mod.hook('S_PARTY_MEMBER_LIST', mod.majorPatchVersion == 92 ? 7 : 9, ({members}) => {
+	mod.hook('S_PARTY_MEMBER_LIST', mod.majorPatchVersion == 92 ? 7 : 8, ({members}) => {
 		partyMembers = members;
 	});
 	
